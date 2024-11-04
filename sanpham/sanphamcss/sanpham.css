@@ -228,7 +228,7 @@ a .header-icon__i--user {
   display: block;
 }
 
-.products li .product-top a.button {
+.products li .product-top .buy-now {
   text-transform: uppercase;
   text-decoration: none;
   text-align: center;
@@ -243,7 +243,7 @@ a .header-icon__i--user {
   width: 100%;
 }
 
-.products li:hover a.button {
+.products li:hover .buy-now {
   bottom: 0px;
 }
 
